@@ -31,4 +31,7 @@
 <img height="150em" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4bd13529-73af-4ca9-96c4-f99b4c262d17/dcnphcn-7da7c2cd-e836-410b-a216-9c945f1661e7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiZDEzNTI5LTczYWYtNGNhOS05NmM0LWY5OWI0YzI2MmQxN1wvZGNucGhjbi03ZGE3YzJjZC1lODM2LTQxMGItYTIxNi05Yzk0NWYxNjYxZTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ixDuvG3jT34DBKcFH-S_ut8DJwPax8N1sDjEgiFVNIE">
 
   </div>
+  <p>
+  <img height="20em" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fabriciobegalli.fabriciobegalli&amp;color=00df00"/>
+</p>
 </div>
