@@ -22,7 +22,7 @@
 </br>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaquino22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaquino22&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaquino&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div vlign="center">
@@ -33,6 +33,6 @@
 </br>
   </div>
   <p>
-  <img height="20em" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kaquino22.kaquino22&amp;color=00df00"/>
+  <img height="20em" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kauaquino.kauaquino&amp;color=00df00"/>
 </p>
 </div>
