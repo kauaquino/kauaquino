@@ -21,7 +21,4 @@
 </br>
 </br>
   </div>
-  <p>
-  <img height="20em" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kauaquino.kauaquino&amp;color=00df00"/>
-</p>
 </div>
