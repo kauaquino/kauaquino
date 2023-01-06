@@ -20,17 +20,6 @@
 
 </br>
 </br>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauaquino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaquino&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-<div vlign="center">
-<img height="110em" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25c93289-0576-4645-bc48-e828abec9740/dc8ayy7-92ebe889-ca78-479c-8710-9a8cb3c2bc77.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1YzkzMjg5LTA1NzYtNDY0NS1iYzQ4LWU4MjhhYmVjOTc0MFwvZGM4YXl5Ny05MmViZTg4OS1jYTc4LTQ3OWMtODcxMC05YThjYjNjMmJjNzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GEncZ_SJusYluDup8ezowpxnpBN3en82kn0TqzjzGTc">
-
-<img height="150em" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4bd13529-73af-4ca9-96c4-f99b4c262d17/dcnphcn-7da7c2cd-e836-410b-a216-9c945f1661e7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiZDEzNTI5LTczYWYtNGNhOS05NmM0LWY5OWI0YzI2MmQxN1wvZGNucGhjbi03ZGE3YzJjZC1lODM2LTQxMGItYTIxNi05Yzk0NWYxNjYxZTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ixDuvG3jT34DBKcFH-S_ut8DJwPax8N1sDjEgiFVNIE">
-</br>
-</br>
   </div>
   <p>
   <img height="20em" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=kauaquino.kauaquino&amp;color=00df00"/>
